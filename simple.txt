@@ -1,4 +1,5 @@
 this is simple file in develop
+<<<<<<< HEAD
 this is java c and c++
 
 
