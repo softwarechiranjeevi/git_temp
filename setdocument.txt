@@ -1,4 +1,4 @@
 hi this is my computer
 this is adding data
 Data in date
-
+this is new auto git data file
