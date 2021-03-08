@@ -1,5 +1,4 @@
 this is simple file in develop
 <<<<<<< HEAD
 this is java c and c++
-
-
+This is my new project adding title for git slash
